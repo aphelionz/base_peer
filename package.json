@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "ipfs": "^0.33.0",
-    "npm": "^6.4.1",
-    "orbit-db": "^0.19.7"
+    "npm": "^6.5.0",
+    "orbit-db": "^0.19.9"
   }
 }
