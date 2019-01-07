@@ -1,0 +1,17 @@
+{
+  "name": "persistent-peer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs": "^0.33.0",
+    "npm": "^6.4.1",
+    "orbit-db": "^0.19.7"
+  }
+}
